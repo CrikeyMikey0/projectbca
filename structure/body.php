@@ -1,6 +1,6 @@
 <?php   
 
-    require 'topbody.php';
+    require 'head.php';
 //  REVOLUTION SLIDER 
     require 'revslide.php';
 
@@ -10,5 +10,12 @@
     require 'serv.php';
 // image with content Section
     require 'imgs.php';
-
+// food gallery Section
+    require 'foodgallery.php';
+// facts Section
+    require 'facts.php';
+// cheffs Section
+    require 'cheffs.php';
+// testinomial 
+    require 'testimonial.php';
 ?>
