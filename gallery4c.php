@@ -55,7 +55,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Herbs & Cheese Stake</a></h3>
+                                            <h3><a href="recepi_detail.php">Herbs & Cheese Stake</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Spaghetti</a></h3>
+                                            <h3><a href="recepi_detail.php">Spaghetti</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>
@@ -92,7 +92,7 @@
                                         </div>
                                     </div>
                                     <div class="gallery_content">
-                                        <h3><a href="recepi_detail.html">Crispy Sandwich</a></h3>
+                                        <h3><a href="recepi_detail.php">Crispy Sandwich</a></h3>
                                         <p>Duis autem vel eum iriure dolor</p>
                                     </div>
                                 </div>
@@ -125,7 +125,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Chocolate Cup Cake</a></h3>
+                                            <h3><a href="recepi_detail.php">Chocolate Cup Cake</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>
@@ -142,7 +142,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Grilled Spice Chicken</a></h3>
+                                            <h3><a href="recepi_detail.php">Grilled Spice Chicken</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>
@@ -159,7 +159,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Cheese and Chorizo Rolls</a></h3>
+                                            <h3><a href="recepi_detail.php">Cheese and Chorizo Rolls</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>
@@ -176,7 +176,7 @@
                                             </div>
                                         </div>
                                         <div class="gallery_content">
-                                            <h3><a href="recepi_detail.html">Roasted Chicken</a></h3>
+                                            <h3><a href="recepi_detail.php">Roasted Chicken</a></h3>
                                             <p>Duis autem vel eum iriure dolor</p>
                                         </div>
                                     </div>

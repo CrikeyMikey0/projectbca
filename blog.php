@@ -43,7 +43,7 @@
                         </div>
                         <p>That also the leap into electronic typesetting, remaining essentially unchanged. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus
                             error sit voluptatem...</p>
-                        <a class="btn-common button3" href="blog-detail.html">Read more</a>
+                        <a class="btn-common button3" href="blog-detail.php">Read more</a>
                     </div>
                     <div class="blog_item padding-bottom">
                         <h2>Corporate Dining </h2>
@@ -60,7 +60,7 @@
                         </div>
                         <p>That also the leap into electronic typesetting, remaining essentially unchanged. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus
                             error sit voluptatem...</p>
-                        <a class="btn-common button3" href="blog-detail.html">Read more</a>
+                        <a class="btn-common button3" href="blog-detail.php">Read more</a>
                     </div>
                     <div class="blog_item padding-bottom">
                         <h2>Daily Exercide is Essential</h2>
@@ -73,7 +73,7 @@
                         </div>
                         <p>That also the leap into electronic typesetting, remaining essentially unchanged. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus
                             error sit voluptatem...</p>
-                        <a class="btn-common button3" href="blog-detail.html">Read more</a>
+                        <a class="btn-common button3" href="blog-detail.php">Read more</a>
                     </div>
                     <div class="blog_item padding-bottom">
                         <h2>Presentation is as important as taste</h2>
@@ -86,7 +86,7 @@
                         </div>
                         <p>That also the leap into electronic typesetting, remaining essentially unchanged. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus
                             error sit voluptatem...</p>
-                        <a class="btn-common button3" href="blog-detail.html">Read more</a>
+                        <a class="btn-common button3" href="blog-detail.php">Read more</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-5">
