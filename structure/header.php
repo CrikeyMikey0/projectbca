@@ -11,8 +11,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="pull-left hidden-xs">JKS Foods and Restaurant, the Best in Town</p>
-                    <p class="pull-right"><i class="fa fa-phone"></i>Order Online +91-892-808-5056</p>
+                    <p class="pull-left hidden-xs">Delight! the BEST in Town</p>
+                    <p class="pull-right"><i class="fa fa-phone"></i>Order Online +91 12345 67890</p>
                 </div>
             </div>
         </div>
@@ -29,7 +29,7 @@
                                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="false"> 
             <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> 
             </button>
-                                <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" class="img-responsive"></a>
+                                <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo" class="img-responsive"></a>
                             </div>
 
                             <div id="fixed-collapse-navbar" class="navbar-collapse collapse navbar-right">

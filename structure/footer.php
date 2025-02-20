@@ -12,12 +12,15 @@
                     <h4 class="heading">Quick Links</h4>
                     <hr class="half_space">
                     <ul class="widget_links">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="food.html">Our Food</a></li>
+                    <li><a href="index.html">Home</a></li>
+                        <li><a href="blog.html">Blog</a></li>
                         <li><a href="about.html">About Us</a></li>
-
+                        <li><a href="location.html">Locations</a></li>
+                        <li><a href="menu.html">Menu</a></li>
                         <li><a href="faq.html">Faq's</a></li>
-                        <li><a href="./account/register.php">Order Now</a></li>
+                        <li><a href="order.html">Order Now</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="food.html">Food</a></li>
 
                     </ul>
                 </div>

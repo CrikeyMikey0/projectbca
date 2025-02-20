@@ -17,5 +17,5 @@
 // cheffs Section
     require 'cheffs.php';
 // testinomial 
-    require 'testimonial.php';
+    require 'testinomial.php';
 ?>
