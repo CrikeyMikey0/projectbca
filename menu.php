@@ -1,24 +1,13 @@
 <!doctype html><head>
-<?php require 'structure/head.php'; ?>
+<?php require 'structure/head.php';     $title = "Menu";
+$msg = "Duis autem vel eum iriure dolor in hendrerit in vulputate velit";?>
 </head>
 <header>
   <?php require 'structure/header.php'; ?>
 </header>
 <body>
 
-<!--Page header & Title-->
-<section id="page_header">
-<div class="page_title">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-         <h2 class="title">Menu</h2>
-         <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit</p>
-      </div>
-    </div>
-  </div>
-</div>  
-</section>
+<?php require 'structure/title.php'; ?>
 
 <!--Pricings-->
 <section id="pricing" class="padding-top">

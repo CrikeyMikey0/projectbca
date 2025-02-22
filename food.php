@@ -1,26 +1,15 @@
 <!doctype html>
 <html lang="en">
 <head>
-<?php require 'structure/head.php'; ?>
+<?php require 'structure/head.php'; $title = "Our Food";
+$msg = "Check out our menu and some of our special foods!";?>
 </head>
 <header>
   <?php require 'structure/header.php'; ?>
 </header>
 <body>
 
-<!--Page header & Title-->
-<section id="page_header">
-<div class="page_title">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-         <h2 class="title">Our Food</h2>
-         <p>Check out our menu and some of our special, featured recipies!</p>
-      </div>
-    </div>
-  </div>
-</div>  
-</section>
+<?php require 'structure/title.php'; ?>
 
 
 

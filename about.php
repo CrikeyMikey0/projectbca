@@ -2,27 +2,17 @@
 < lang="en">
 
 <head>
-<?php require 'structure/head.php'; ?>
+<?php require 'structure/head.php'; 
+$title = "About us";
+$msg = "";
+?>
 </head>
 <header>
     <?php require 'structure/header.php'; ?>
 </header>
 
 <body>
-
-    <!--Page header & Title-->
-    <section id="page_header">
-        <div class="page_title">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="title">About Us</h2>
-                        <p></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php require 'structure/title.php'; ?>
 
     <section id="overview" class="padding-top">
         <div class="container">

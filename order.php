@@ -1,7 +1,8 @@
 <!doctype html>
 
 <head>
-    <?php require 'structure/head.php'; ?>
+    <?php require 'structure/head.php';     $title = "Order Online";
+$msg = "Duis autem vel eum iriure dolor in hendrerit in vulputate velit";?>
 </head>
 <header>
     <?php require 'structure/header.php'; ?>
@@ -9,19 +10,7 @@
 
 <body>
 
-    <!--Page header & Title-->
-    <section id="page_header">
-        <div class="page_title">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="title">Order Online</h2>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php require 'structure/title.php'; ?>
 
     <section id="order-form" class="order-page">
         <div class="container order_form padding">
